@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  max-width: 500px;
+  margin: 0 auto;
+  background-color: #bdc3c7;
+  color: #353866;
+  font-family: "Texturina", serif;
+}
+
+.progress {
+  font-size: 24px;
+  text-align: center;
+  font-weight: 600;
+}
+
+.coin {
+  padding: 20px 0px;
+}
+
+.coin div {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: solid 2px white;
+  margin-bottom: 20px;
+}
+
+.wrapper h2 {
+  font-size: 30px;
+  color: #353866;
+  font-family: "Texturina", serif;
+  font-weight: 600;
+}
+
+.wrapper h3,
+.wrapper h4 {
+  font-size: 24px;
+  color: #353866;
+  font-family: "Texturina", serif;
+  font-weight: 400;
+}
